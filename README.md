@@ -475,6 +475,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Taskade](https://www.taskade.com/contact) - Remote team building real-time collaboration & collaborative editing for teams.
   1. [TaxJar](https://www.taxjar.com) - Eliminate sales tax headaches.
   1. [Teamed.io](https://www.teamed.io/)
+  2. [Teamflect] (https://teamflect.com/)
   1. [TeamSnap](https://www.teamsnap.com/company/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
   1. [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
   1. [Tesera](https://www.tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
